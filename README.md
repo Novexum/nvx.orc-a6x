@@ -22,6 +22,22 @@ This repository contains the hardware design files, FPGA firmware, drivers, and 
 
 ---
 
+## 🖼️ Visuals
+
+### 📐 Board Render
+![NVX.ORC-A6X Render](./docs/img/nvx-orc-a6x-render-top.png)
+
+### 📷 Real-world Photos
+
+**Top View**  
+![Top View](./docs/img/nvx-orc-a6x-photo-front.jpg)
+
+**Angled View**  
+![Angled View](./docs/img/nvx-orc-a6x-photo-angle.jpg)
+
+**Mounted on Dev Board**  
+![Mounted](./docs/img/nvx-orc-a6x-on-carrier.jpg)
+
 ## 📂 Repository Structure
 
 - `hardware/` – schematics, PCB layout, BOM (KiCad)
