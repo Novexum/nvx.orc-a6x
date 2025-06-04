@@ -36,7 +36,7 @@ This repository contains the hardware design files, FPGA firmware, drivers, and 
 ![Angled View](./docs/img/nvx-orc-a6x-photo-angle.jpg)
 
 **Mounted on Dev Board**  
-![Mounted](./docs/img/nvx-orc-a6x-on-carrier.jpg)
+![Mounted](./docs/img/nvx-orc-a6x-on-carrier.jpeg)
 
 ## 📂 Repository Structure
 
